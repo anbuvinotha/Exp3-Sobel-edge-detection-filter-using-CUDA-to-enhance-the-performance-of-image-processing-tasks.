@@ -57,7 +57,7 @@ To utilize CUDA to parallelize the Sobel filter implementation for efficient pro
    - Destroy CUDA events created for timing.
 
 ## Program
-
+```
 cpp
 #include <stdio.h>
 #include <stdlib.h>
@@ -240,7 +240,7 @@ int main() {
  </br>
 
 <img src="https://github.com/user-attachments/assets/ddb5fb05-53fe-440f-8876-0d3797de1bb5" width="500">
-
+```
 
 ## Answers to Questions
 
